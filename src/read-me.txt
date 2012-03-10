@@ -1,0 +1,18 @@
+----------------------------------------------------------
+This is a readme file for executing Linker
+
+Operating Systems 
+Project 1 - Linker
+
+Shefali Budhwani (Sab655)
+--------------------------------------------------------
+
+This zip folder contains 2 files:
+1) A java file: TwoPassLinker.java
+2) TwoPassLinker.txt (readme)
+
+In order to execute:
+1) Execute TwoPassLinker.java (There is only one java file & 2 classes)
+2) It'll prompt user to enter input file name on console
+3) Enter a file name (with entire path if not located in source folder)
+4) The appropriate output, warnings and errors will be printed on console
